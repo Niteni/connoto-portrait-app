@@ -57,6 +57,3 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
-
-# Podfile versions
-ios/Podfile.lock
